@@ -1,0 +1,19 @@
+{
+  "name": "kauto",
+  "version": "1.0.0",
+  "description": "automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarKur/KAuto.git"
+  },
+  "author": "Nazar Kuradovets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarKur/KAuto/issues"
+  },
+  "homepage": "https://github.com/NazarKur/KAuto#readme"
+}
