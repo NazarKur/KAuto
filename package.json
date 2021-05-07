@@ -18,6 +18,6 @@
   "homepage": "https://github.com/NazarKur/KAuto#readme",
   "dependencies": {
     "testcafe": "^1.8.4",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
